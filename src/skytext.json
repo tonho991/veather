@@ -1,0 +1,13 @@
+{
+  "Sunny": "Ensolarado",
+  "Fair": "Tempo ameno",
+  "Partly Cloudy": "Parcialmente Nublado",
+  "Mostly Cloudy": "Predominantemente Nublado",
+  "Cloudy": "Nublado",
+  "Rain": "Chuvoso",
+  "Showers": "Chuvas",
+  "Thunderstorms": "Trovoadas",
+  "Snow": "Nevando",
+  "Light Snow": "Neve Leve",
+  "Heavy Snow": "Neve Pesada"
+}

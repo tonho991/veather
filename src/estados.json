@@ -1,0 +1,135 @@
+[{
+	"id": "1",
+	"state_acronym": "AC",
+	"name": "Acre"
+},
+     {
+	"id": "2",
+	"state_acronym": "AL",
+	"name": "Alagoas"
+},
+     {
+	"id": "3",
+	"state_acronym": "AM",
+	"name": "Amazonas"
+},
+     {
+	"id": "4",
+	"state_acronym": "AP",
+	"name": "Amapá"
+},
+     {
+	"id": "5",
+	"state_acronym": "BA",
+	"name": "Bahia"
+},
+     {
+	"id": "6",
+	"state_acronym": "CE",
+	"name": "Ceará"
+},
+     {
+	"id": "7",
+	"state_acronym": "DF",
+	"name": "Distrito Federal"
+},
+     {
+	"id": "8",
+	"state_acronym": "ES",
+	"name": "Espírito Santo"
+},
+     {
+	"id": "9",
+	"state_acronym": "GO",
+	"name": "Goiás"
+},
+     {
+	"id": "10",
+	"state_acronym": "MA",
+	"name": "Maranhão"
+},
+     {
+	"id": "11",
+	"state_acronym": "MG",
+	"name": "Minas Gerais"
+},
+     {
+	"id": "12",
+	"state_acronym": "MS",
+	"name": "Mato Grosso do Sul"
+},
+     {
+	"id": "13",
+	"state_acronym": "MT",
+	"name": "Mato Grosso"
+},
+     {
+	"id": "14",
+	"state_acronym": "PA",
+	"name": "Pará"
+},
+     {
+	"id": "15",
+	"state_acronym": "PB",
+	"name": "Paraíba"
+},
+     {
+	"id": "16",
+	"state_acronym": "PE",
+	"name": "Pernambuco"
+},
+     {
+	"id": "17",
+	"state_acronym": "PI",
+	"name": "Piauí"
+},
+     {
+	"id": "18",
+	"state_acronym": "PR",
+	"name": "Paraná"
+},
+     {
+	"id": "19",
+	"state_acronym": "RJ",
+	"name": "Rio de Janeiro"
+},
+     {
+	"id": "20",
+	"state_acronym": "RN",
+	"name": "Rio Grande do Norte"
+},
+     {
+	"id": "21",
+	"state_acronym": "RO",
+	"name": "Rondônia"
+},
+     {
+	"id": "22",
+	"state_acronym": "RR",
+	"name": "Roraima"
+},
+     {
+	"id": "23",
+	"state_acronym": "RS",
+	"name": "Rio Grande do Sul"
+},
+     {
+	"id": "24",
+	"state_acronym": "SC",
+	"name": "Santa Catarina"
+},
+     {
+	"id": "25",
+	"state_acronym": "SE",
+	"name": "Sergipe"
+},
+     {
+	"id": "26",
+	"state_acronym": "SP",
+	"name": "São Paulo"
+},
+     {
+	"id": "27",
+	"state_acronym": "TO",
+	"name": "Tocantins"
+}]
