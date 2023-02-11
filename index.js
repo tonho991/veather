@@ -23,9 +23,9 @@ app.get("/api/prev", (req, res) => {
   const id = req.query.id;
   //if (id || !isNaN(id)) return res.sendStatus(403);
   const text = getCityAndStateNameById(id);
-  const sl = JSON.parse(fs.readFileSync("./src/skytext.json"));
-  const sdl = JSON.parse(fs.readFileSync("./src/skytextday.json"));
-  const dl = JSON.parse(fs.readFileSync("./src/day.json"));
+  const sl = JSON.parse(fs.readFileSync(__dirname+"/src/skytext.json"));
+  const sdl = JSON.parse(fs.readFileSync(__dirname+"/src/skytextday.json"));
+  const dl = JSON.parse(fs.readFileSync(__dirname + "/src/day.json"));
   
   weather.find({search: text, degreeType: 'C'}, function(err, result) {
     if (err) console.log(err);
